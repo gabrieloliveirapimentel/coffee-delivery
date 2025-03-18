@@ -1,4 +1,10 @@
-# Coffee Delivery
+<h3 align="center"> 
+	Coffee Delivery
+</h3>
+
+![cover](cover.png?style=flat)
+
+## Create a project
 Create a ``React + Vite`` Project:
 ```shell
   npm create vite@latest
